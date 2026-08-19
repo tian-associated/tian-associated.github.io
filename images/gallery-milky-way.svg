@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs><radialGradient id="g" cx="65%" cy="20%"><stop stop-color="#405579"/><stop offset=".5" stop-color="#131a2b"/><stop offset="1" stop-color="#05070c"/></radialGradient><filter id="b"><feGaussianBlur stdDeviation="35"/></filter></defs>
+  <rect width="1200" height="900" fill="url(#g)"/><path d="M250 0C480 250 680 410 1060 690" fill="none" stroke="#c7c3d8" stroke-opacity=".22" stroke-width="160" filter="url(#b)"/>
+  <g fill="#fff" opacity=".8"><circle cx="110" cy="120" r="2"/><circle cx="253" cy="215" r="1"/><circle cx="410" cy="82" r="1.5"/><circle cx="584" cy="330" r="2"/><circle cx="721" cy="174" r="1"/><circle cx="899" cy="278" r="1.5"/><circle cx="1070" cy="98" r="2"/><circle cx="1028" cy="502" r="1"/></g>
+  <path d="M0 730 180 630 365 706 560 590 760 720 940 625 1200 735V900H0Z" fill="#06080d"/><text x="50" y="850" fill="#fff" opacity=".45" font-family="sans-serif" font-size="20" letter-spacing="6">PLACEHOLDER · MILKY WAY</text>
+</svg>

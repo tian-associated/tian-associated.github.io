@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[5012,["/_next/static/chunks/31xsddxx4z1ng.js","/_next/static/chunks/3hidru3yoy0_4.js","/_next/static/chunks/1io8c9cunvajf.js"],"Image"]
+3:I[12786,["/_next/static/chunks/31xsddxx4z1ng.js","/_next/static/chunks/3hidru3yoy0_4.js","/_next/static/chunks/1io8c9cunvajf.js"],""]
+4:Tf43,<section><section><section><section><section><section><section><section><section><section><p>秋季星空</p></section></section></section></section></section></section></section><section><p><em><span>"文末有惊喜哦!"</span></em></p>
+<p><em><span><img src="/images/wechat/wechat-mg3yqcoz2bjzs356noecca/image-01.jpg" alt="公众号文章图片" loading="lazy"></span></em></p>
+<section><section><section><section><img src="/images/wechat/wechat-mg3yqcoz2bjzs356noecca/image-02.png" alt="公众号文章图片" loading="lazy"></section></section><section><section><section><p>立秋，是二十四节气中的第13个节气，更是秋天的第一个节气，标志着孟秋时节的正式开始：“秋”<span>就是指暑去凉来。立秋时，北斗斗柄指向西南。从这一天起秋天开</span>始，秋高气爽，月明风清。</p>
+<p><span>我们的祖先很早就注意到了四季星空的变化，写下了寒来暑往，斗转星移的诗篇:</span></p>
+<p><span>斗柄指东，天下皆春；</span></p>
+<p><span>斗柄指南，天下皆夏；</span></p>
+<p><span>斗柄指西，天下皆秋；</span></p>
+<p><span>斗柄指北，天下皆冬。</span></p>
+<p><span>这诗篇告诉了北半球的人们在不同的季节里，北斗七星组成的斗柄所指的方向不同。</span></p>
+<p><span>秋夜星空秋高气爽，天空刚刚拉上夜幕时，北斗七星横在地平线上，斗柄指西，这时不容易看到它。飞马当空，银河斜挂，这是秋季星空的重要特征。从头顶的秋季四边形开始，它由飞马座α星、β星、γ星和仙女座α星构成，除飞马座γ星为3m星外，其均为2m星，因而十分醒目。由飞马座γ星向仙女座α星延伸，经由仙后座β星可找到北极星；由飞马座γ星向南延伸可找到鲸鱼座β星；由飞马座的β星向α星延伸，在南方低空可找到秋季星空唯一的一颗1m的红色亮星北落师门（南鱼座α星）；由飞马座α向飞马座β星延伸可找到仙王座；沿仙女座向东北方向延伸可找到英仙座，其中的大陵五（英仙座β星）是著名的食变双星；</span></p>
+<p><span>秋季四边形的东南面是双鱼座和很大的鲸鱼座，鲸鱼座ο星是一颗著名的长周期变星。仙王、仙后、仙女、英仙、飞马和鲸鱼诸星座构成王族星座，是秋季星空的主要星座。秋季四边形的西南面是宝瓶座和摩羯座。秋季星空亮星很少，但像仙女座大星云M31这样的深空天体虽然不太亮却十分壮观。</span></p>
+<p><span><img src="/images/wechat/wechat-mg3yqcoz2bjzs356noecca/image-03.jpg" alt="公众号文章图片" loading="lazy"></span></p>
+<p><span>附上秋季星空图：</span></p>
+<p><span><img src="/images/wechat/wechat-mg3yqcoz2bjzs356noecca/image-04.jpg" alt="公众号文章图片" loading="lazy"></span></p>
+<p><span> </span><em><span>PS</span></em><span>:8月13日是小天的生日哦，届时将会在晚上八点于四川大学天文协会大群(群号：517196727）开启夜话活动，另外小天也有礼物送给15岁的川大天协，望诸位嘉宾莅临本群，也希望各位能在月落之后，日升之前，观测到美丽而又璀璨的英仙座流星雨吧！</span></p>
+<p><span>图源：网络 侵删</span></p>
+<section><section><section><section><p><strong>·END·</strong><br> <strong>文字:蒋宏轩潘星灿 </strong></p></section><section><p><strong>排版:周洲洋</strong></p></section><img src="/images/wechat/wechat-mg3yqcoz2bjzs356noecca/image-05.jpg" alt="公众号文章图片" loading="lazy"></section></section></section><p><br></p>
+<p><br></p></section></section></section><section><section><img src="/images/wechat/wechat-mg3yqcoz2bjzs356noecca/image-06.png" alt="公众号文章图片" loading="lazy"></section></section></section></section><p><br></p></section></section></section></section>8:X
+d:X
+d:C
+0:{"buildId":"mkLqiZ_oGpuD3LzWb9z3f","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","header",null,{"className":"relative isolate overflow-hidden border-b border-white/10 py-20 sm:py-28","children":[["$","div",null,{"className":"absolute inset-y-0 right-0 -z-20 w-[58%] opacity-18","children":["$","$L2",null,{"src":"/images/wechat/wechat-mg3yqcoz2bjzs356noecca/cover.jpg","alt":"","fill":true,"className":"object-cover grayscale","sizes":"58vw"}]}],["$","div",null,{"className":"absolute inset-0 -z-10 bg-gradient-to-r from-[#070b0e] via-[#070b0e]/96 to-[#070b0e]/42"}],["$","div",null,{"className":"page-shell","children":[["$","$L3",null,{"href":"/articles","className":"link-arrow inline-flex text-xs text-white/48 hover:text-white","children":"返回文章归档"}],["$","div",null,{"data-reveal":true,"className":"mt-14 max-w-6xl","children":[["$","div",null,{"className":"flex flex-wrap gap-x-5 gap-y-2 text-xs","children":[["$","span",null,{"className":"text-[#9ed8ff]","children":"公众号文章"}],["$","time",null,{"className":"text-white/42","children":"2019-08-12"}],["$","span",null,{"className":"text-white/42","children":["来源：","川大天协微信公众号"]}],["$","span",null,{"className":"text-white/42","children":["作者：","潘星灿 蒋宏轩 周洲洋"]}]]}],["$","h1",null,{"className":"mt-7 max-w-6xl text-[clamp(2.8rem,6vw,6.5rem)] font-semibold leading-[0.94] tracking-[-0.065em]","children":"秋季星空"}],["$","p",null,{"className":"mt-8 max-w-2xl text-base leading-8 text-white/56","children":"秋季星空\\x26quot;文末有惊喜哦!\\x26quot;\\x0a\\x0a立秋，是二十四节气中的第13个节气，更是秋天的第一个节气，标志着孟秋时节的正式"}]]}]]}]]}],["$","div",null,{"className":"page-shell py-16 sm:py-24","children":[["$","div",null,{"data-reveal":true,"className":"relative mx-auto mb-16 aspect-[16/9] max-w-6xl overflow-hidden bg-black","children":["$","$L2",null,{"src":"/images/wechat/wechat-mg3yqcoz2bjzs356noecca/cover.jpg","alt":"秋季星空","fill":true,"className":"object-cover","sizes":"1200px"}]}],["$","div",null,{"className":"mx-auto max-w-3xl","children":[["$","div",null,{"className":"wechat-body","dangerouslySetInnerHTML":{"__html":"$4"}}],false,"$L5"]}]]}]]}],null,"$L6"]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$8","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$8","varyParams":"$d"},{"rsc":"$Le","isPartial":"$@f","staleTime":"$8","varyParams":"$d"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+12:I[80786,["/_next/static/chunks/31xsddxx4z1ng.js","/_next/static/chunks/3hidru3yoy0_4.js","/_next/static/chunks/1io8c9cunvajf.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[80786,["/_next/static/chunks/31xsddxx4z1ng.js","/_next/static/chunks/3hidru3yoy0_4.js","/_next/static/chunks/1io8c9cunvajf.js"],"ViewportBoundary"]
+16:I[80786,["/_next/static/chunks/31xsddxx4z1ng.js","/_next/static/chunks/3hidru3yoy0_4.js","/_next/static/chunks/1io8c9cunvajf.js"],"MetadataBoundary"]
+17:I[1938,["/_next/static/chunks/31xsddxx4z1ng.js","/_next/static/chunks/3hidru3yoy0_4.js","/_next/static/chunks/1io8c9cunvajf.js"],"IconMark"]
+18:I[2449,["/_next/static/chunks/31xsddxx4z1ng.js","/_next/static/chunks/3hidru3yoy0_4.js","/_next/static/chunks/1io8c9cunvajf.js"],"default"]
+19:I[44213,["/_next/static/chunks/31xsddxx4z1ng.js","/_next/static/chunks/3hidru3yoy0_4.js","/_next/static/chunks/1io8c9cunvajf.js"],"default"]
+5:["$","div",null,{"className":"mt-20 border-t border-white/12 pt-8","children":["$","a",null,{"href":"https://mp.weixin.qq.com/s/mG3yQCoz2bJzS356noEccA","target":"_blank","rel":"noreferrer","className":"link-arrow inline-flex text-[#9ed8ff]","children":"访问原始来源"}]}]
+6:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+9:["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"四川大学天文协会"}],["$","meta","1",{"name":"description","content":"四川大学天文协会官方网站（建设中）"}],["$","link","2",{"rel":"icon","href":"/images/association-emblem.png"}],["$","$L17","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+b:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+e:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+11:true
+14:null
+8:300
+8:C
+10:0
+a:"$undefined"
+c:"$undefined"
+f:"$undefined"
+7:"$undefined"

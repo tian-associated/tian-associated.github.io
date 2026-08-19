@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs><radialGradient id="n"><stop stop-color="#efc78f" stop-opacity=".72"/><stop offset=".28" stop-color="#8f607b" stop-opacity=".5"/><stop offset=".62" stop-color="#315271" stop-opacity=".24"/><stop offset="1" stop-opacity="0"/></radialGradient><filter id="b"><feGaussianBlur stdDeviation="42"/></filter></defs>
+  <rect width="1200" height="900" fill="#050810"/><ellipse cx="660" cy="390" rx="510" ry="270" fill="url(#n)" filter="url(#b)" transform="rotate(-18 660 390)"/><ellipse cx="690" cy="420" rx="300" ry="90" fill="#02040a" opacity=".72" filter="url(#b)" transform="rotate(-18 690 420)"/>
+  <g fill="#fff"><circle cx="112" cy="170" r="1.5"/><circle cx="295" cy="90" r="1"/><circle cx="375" cy="440" r="2"/><circle cx="520" cy="214" r="1"/><circle cx="710" cy="115" r="1.5"/><circle cx="900" cy="335" r="1"/><circle cx="1050" cy="175" r="2"/><circle cx="1020" cy="650" r="1"/><circle cx="180" cy="610" r="1.5"/></g><text x="50" y="850" fill="#fff" opacity=".45" font-family="sans-serif" font-size="20" letter-spacing="6">PLACEHOLDER · DEEP SKY</text>
+</svg>
