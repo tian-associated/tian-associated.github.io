@@ -1,0 +1,556 @@
+{
+  "updated": "2026-09-25",
+  "sourceSummary": {
+    "totalFiles": 24062,
+    "collections": 24,
+    "images": 10995,
+    "documents": 2105,
+    "slides": 240,
+    "sheets": 169,
+    "privateCandidates": 902
+  },
+  "collections": [
+    {
+      "name": "2005-2008 / 第一、二、三届",
+      "files": 36,
+      "images": 23,
+      "documents": 13,
+      "privateCandidates": 0,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2008-2009 / 第四届",
+      "files": 28,
+      "images": 0,
+      "documents": 28,
+      "privateCandidates": 1,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2009-2010 / 第五届",
+      "files": 2,
+      "images": 0,
+      "documents": 2,
+      "privateCandidates": 0,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2010-2011 / 第六届",
+      "files": 15,
+      "images": 9,
+      "documents": 6,
+      "privateCandidates": 12,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2011-2012 / 第七届",
+      "files": 396,
+      "images": 385,
+      "documents": 11,
+      "privateCandidates": 186,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2012-2013 / 第八届",
+      "files": 360,
+      "images": 300,
+      "documents": 53,
+      "privateCandidates": 67,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2013-2014 / 第九届",
+      "files": 4,
+      "images": 0,
+      "documents": 4,
+      "privateCandidates": 0,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2014-2015 / 第十届",
+      "files": 340,
+      "images": 251,
+      "documents": 73,
+      "privateCandidates": 29,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2016-2017 / 第十二届",
+      "files": 513,
+      "images": 399,
+      "documents": 104,
+      "privateCandidates": 8,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2017-2018 / 十三届",
+      "files": 917,
+      "images": 547,
+      "documents": 333,
+      "privateCandidates": 70,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2018-2019 / 第十四届",
+      "files": 702,
+      "images": 584,
+      "documents": 108,
+      "privateCandidates": 59,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "第15-17届合并压缩包 / 原始容器",
+      "files": 17503,
+      "images": 6209,
+      "documents": 996,
+      "privateCandidates": 217,
+      "chronological": false,
+      "publicStatus": "pending"
+    },
+    {
+      "name": "2022-2023 / 第18届",
+      "files": 11,
+      "images": 11,
+      "documents": 0,
+      "privateCandidates": 4,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2023-2024 / 第十九届",
+      "files": 460,
+      "images": 405,
+      "documents": 27,
+      "privateCandidates": 2,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2024-2025 / 第二十届",
+      "files": 267,
+      "images": 58,
+      "documents": 185,
+      "privateCandidates": 23,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2025-2026 / 第二十一届",
+      "files": 161,
+      "images": 76,
+      "documents": 77,
+      "privateCandidates": 22,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "天协基本资料（2018年9月整理）",
+      "files": 876,
+      "images": 850,
+      "documents": 19,
+      "privateCandidates": 198,
+      "chronological": false,
+      "publicStatus": "pending"
+    },
+    {
+      "name": "我的资源",
+      "files": 3,
+      "images": 1,
+      "documents": 1,
+      "privateCandidates": 0,
+      "chronological": false,
+      "publicStatus": "pending"
+    },
+    {
+      "name": "来自：iPad",
+      "files": 2,
+      "images": 2,
+      "documents": 0,
+      "privateCandidates": 0,
+      "chronological": false,
+      "publicStatus": "pending"
+    },
+    {
+      "name": "知识竞赛",
+      "files": 102,
+      "images": 47,
+      "documents": 53,
+      "privateCandidates": 1,
+      "chronological": false,
+      "publicStatus": "pending"
+    },
+    {
+      "name": "资料、资源",
+      "files": 1364,
+      "images": 838,
+      "documents": 421,
+      "privateCandidates": 3,
+      "chronological": false,
+      "publicStatus": "pending"
+    },
+    {
+      "name": "2019-2020 / 第十五届",
+      "files": 2,
+      "images": 1,
+      "documents": 1,
+      "privateCandidates": 2,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2020-2021 / 第十六届",
+      "files": 105,
+      "images": 105,
+      "documents": 0,
+      "privateCandidates": 0,
+      "chronological": true,
+      "publicStatus": "curated"
+    },
+    {
+      "name": "2021-2022 / 第十七届",
+      "files": 47,
+      "images": 28,
+      "documents": 19,
+      "privateCandidates": 0,
+      "chronological": true,
+      "publicStatus": "curated"
+    }
+  ],
+  "published": [
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（一代200612.3）天文图片展.doc",
+      "kind": "Word 文档",
+      "size": 22016,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%B8%80%E4%BB%A3200612.3%EF%BC%89%E5%A4%A9%E6%96%87%E5%9B%BE%E7%89%87%E5%B1%95.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（一代20073.24）天协环协手拉手做环保.doc",
+      "kind": "Word 文档",
+      "size": 20992,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%B8%80%E4%BB%A320073.24%EF%BC%89%E5%A4%A9%E5%8D%8F%E7%8E%AF%E5%8D%8F%E6%89%8B%E6%8B%89%E6%89%8B%E5%81%9A%E7%8E%AF%E4%BF%9D.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（一代20074.17）赴双流中学进行天文科普.doc",
+      "kind": "Word 文档",
+      "size": 3639296,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%B8%80%E4%BB%A320074.17%EF%BC%89%E8%B5%B4%E5%8F%8C%E6%B5%81%E4%B8%AD%E5%AD%A6%E8%BF%9B%E8%A1%8C%E5%A4%A9%E6%96%87%E7%A7%91%E6%99%AE.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（一代20074.7）著名天文学家李竞做客川大.doc",
+      "kind": "Word 文档",
+      "size": 1667072,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%B8%80%E4%BB%A320074.7%EF%BC%89%E8%91%97%E5%90%8D%E5%A4%A9%E6%96%87%E5%AD%A6%E5%AE%B6%E6%9D%8E%E7%AB%9E%E5%81%9A%E5%AE%A2%E5%B7%9D%E5%A4%A7.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（一代20075.19）四川省科技周活动.doc",
+      "kind": "Word 文档",
+      "size": 1394688,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%B8%80%E4%BB%A320075.19%EF%BC%89%E5%9B%9B%E5%B7%9D%E7%9C%81%E7%A7%91%E6%8A%80%E5%91%A8%E6%B4%BB%E5%8A%A8.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（一代2007夏）06～07学年四川大学天文协会学年度总结.doc",
+      "kind": "Word 文档",
+      "size": 28160,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%B8%80%E4%BB%A32007%E5%A4%8F%EF%BC%8906%EF%BD%9E07%E5%AD%A6%E5%B9%B4%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%A4%A9%E6%96%87%E5%8D%8F%E4%BC%9A%E5%AD%A6%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（一代）例行影片放映~宇宙无限.doc",
+      "kind": "Word 文档",
+      "size": 23040,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%B8%80%E4%BB%A3%EF%BC%89%E4%BE%8B%E8%A1%8C%E5%BD%B1%E7%89%87%E6%94%BE%E6%98%A0~%E5%AE%87%E5%AE%99%E6%97%A0%E9%99%90.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（一代）天文协会06~07精品活动选编.xls",
+      "kind": "Excel 表格",
+      "size": 25600,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%B8%80%E4%BB%A3%EF%BC%89%E5%A4%A9%E6%96%87%E5%8D%8F%E4%BC%9A06~07%E7%B2%BE%E5%93%81%E6%B4%BB%E5%8A%A8%E9%80%89%E7%BC%96.xls",
+      "featured": false
+    },
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（一代）来做天文讲师!.doc",
+      "kind": "Word 文档",
+      "size": 683008,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%B8%80%E4%BB%A3%EF%BC%89%E6%9D%A5%E5%81%9A%E5%A4%A9%E6%96%87%E8%AE%B2%E5%B8%88%21.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（一代）首届西南天文交流会.doc",
+      "kind": "Word 文档",
+      "size": 799744,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%B8%80%E4%BB%A3%EF%BC%89%E9%A6%96%E5%B1%8A%E8%A5%BF%E5%8D%97%E5%A4%A9%E6%96%87%E4%BA%A4%E6%B5%81%E4%BC%9A.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（二代200710.28）参观双流中学天象馆.doc",
+      "kind": "Word 文档",
+      "size": 20480,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%BA%8C%E4%BB%A3200710.28%EF%BC%89%E5%8F%82%E8%A7%82%E5%8F%8C%E6%B5%81%E4%B8%AD%E5%AD%A6%E5%A4%A9%E8%B1%A1%E9%A6%86.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2005~2008活动（第一、二、三届）",
+      "name": "（二代20079.18）金秋揽月.doc",
+      "kind": "Word 文档",
+      "size": 189440,
+      "href": "/archive/files/2005~2008%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%E5%B1%8A%EF%BC%89/%EF%BC%88%E4%BA%8C%E4%BB%A320079.18%EF%BC%89%E9%87%91%E7%A7%8B%E6%8F%BD%E6%9C%88.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2008~2009活动（第四届）",
+      "name": "08-09学年天文协会器械部工作总结暨一些要说的话暨另外一些要说的话（三代器械部长陈卫国）.doc",
+      "kind": "Word 文档",
+      "size": 29696,
+      "href": "/archive/files/2008~2009%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%B1%8A%EF%BC%89/08-09%E5%AD%A6%E5%B9%B4%E5%A4%A9%E6%96%87%E5%8D%8F%E4%BC%9A%E5%99%A8%E6%A2%B0%E9%83%A8%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E6%9A%A8%E4%B8%80%E4%BA%9B%E8%A6%81%E8%AF%B4%E7%9A%84%E8%AF%9D%E6%9A%A8%E5%8F%A6%E5%A4%96%E4%B8%80%E4%BA%9B%E8%A6%81%E8%AF%B4%E7%9A%84%E8%AF%9D%EF%BC%88%E4%B8%89%E4%BB%A3%E5%99%A8%E6%A2%B0%E9%83%A8%E9%95%BF%E9%99%88%E5%8D%AB%E5%9B%BD%EF%BC%89.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2008~2009活动（第四届）",
+      "name": "以前物理学院的策划.doc",
+      "kind": "Word 文档",
+      "size": 31744,
+      "href": "/archive/files/2008~2009%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%B1%8A%EF%BC%89/%E4%BB%A5%E5%89%8D%E7%89%A9%E7%90%86%E5%AD%A6%E9%99%A2%E7%9A%84%E7%AD%96%E5%88%92.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2008~2009活动（第四届）",
+      "name": "关于和物理学院合作的最后三个活动.doc",
+      "kind": "Word 文档",
+      "size": 26624,
+      "href": "/archive/files/2008~2009%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%B1%8A%EF%BC%89/%E5%85%B3%E4%BA%8E%E5%92%8C%E7%89%A9%E7%90%86%E5%AD%A6%E9%99%A2%E5%90%88%E4%BD%9C%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%89%E4%B8%AA%E6%B4%BB%E5%8A%A8.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2008~2009活动（第四届）",
+      "name": "北京之行（三代目天影）.doc",
+      "kind": "Word 文档",
+      "size": 4151808,
+      "href": "/archive/files/2008~2009%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%B1%8A%EF%BC%89/%E5%8C%97%E4%BA%AC%E4%B9%8B%E8%A1%8C%EF%BC%88%E4%B8%89%E4%BB%A3%E7%9B%AE%E5%A4%A9%E5%BD%B1%EF%BC%89.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2008~2009活动（第四届）",
+      "name": "和物理学院合作的策划.doc",
+      "kind": "Word 文档",
+      "size": 31232,
+      "href": "/archive/files/2008~2009%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%B1%8A%EF%BC%89/%E5%92%8C%E7%89%A9%E7%90%86%E5%AD%A6%E9%99%A2%E5%90%88%E4%BD%9C%E7%9A%84%E7%AD%96%E5%88%92.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2008~2009活动（第四届）",
+      "name": "天文图片展总结.doc",
+      "kind": "Word 文档",
+      "size": 5412352,
+      "href": "/archive/files/2008~2009%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%B1%8A%EF%BC%89/%E5%A4%A9%E6%96%87%E5%9B%BE%E7%89%87%E5%B1%95%E6%80%BB%E7%BB%93.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2008~2009活动（第四届）",
+      "name": "探索宇宙 中国目光.doc",
+      "kind": "Word 文档",
+      "size": 4039680,
+      "href": "/archive/files/2008~2009%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%B1%8A%EF%BC%89/%E6%8E%A2%E7%B4%A2%E5%AE%87%E5%AE%99%20%E4%B8%AD%E5%9B%BD%E7%9B%AE%E5%85%89.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2009~2010活动（第五届）",
+      "name": "“追寻潘多拉”策划（（四代20104.10）“仰望星空，寻找潘多拉”活动）.doc",
+      "kind": "Word 文档",
+      "size": 73728,
+      "href": "/archive/files/2009~2010%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%BA%94%E5%B1%8A%EF%BC%89/%E2%80%9C%E8%BF%BD%E5%AF%BB%E6%BD%98%E5%A4%9A%E6%8B%89%E2%80%9D%E7%AD%96%E5%88%92%EF%BC%88%EF%BC%88%E5%9B%9B%E4%BB%A320104.10%EF%BC%89%E2%80%9C%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA%EF%BC%8C%E5%AF%BB%E6%89%BE%E6%BD%98%E5%A4%9A%E6%8B%89%E2%80%9D%E6%B4%BB%E5%8A%A8%EF%BC%89.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2009~2010活动（第五届）",
+      "name": "（四代）大爆炸宇宙学及其两大发展-川大天协（陆埮院士）.ppt",
+      "kind": "PowerPoint",
+      "size": 4643840,
+      "href": "/archive/files/2009~2010%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%BA%94%E5%B1%8A%EF%BC%89/%EF%BC%88%E5%9B%9B%E4%BB%A3%EF%BC%89%E5%A4%A7%E7%88%86%E7%82%B8%E5%AE%87%E5%AE%99%E5%AD%A6%E5%8F%8A%E5%85%B6%E4%B8%A4%E5%A4%A7%E5%8F%91%E5%B1%95-%E5%B7%9D%E5%A4%A7%E5%A4%A9%E5%8D%8F%EF%BC%88%E9%99%86%E5%9F%AE%E9%99%A2%E5%A3%AB%EF%BC%89.ppt",
+      "featured": false
+    },
+    {
+      "cohort": "2010~2011活动（第六届）",
+      "name": "会员大会知识竞答题.doc",
+      "kind": "Word 文档",
+      "size": 30208,
+      "href": "/archive/files/2010~2011%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%85%AD%E5%B1%8A%EF%BC%89/%E4%BC%9A%E5%91%98%E5%A4%A7%E4%BC%9A%E7%9F%A5%E8%AF%86%E7%AB%9E%E7%AD%94%E9%A2%98.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2010~2011活动（第六届）",
+      "name": "器械部部门简介.doc",
+      "kind": "Word 文档",
+      "size": 10752,
+      "href": "/archive/files/2010~2011%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%85%AD%E5%B1%8A%EF%BC%89/%E5%99%A8%E6%A2%B0%E9%83%A8%E9%83%A8%E9%97%A8%E7%AE%80%E4%BB%8B.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2010~2011活动（第六届）",
+      "name": "太阳系奇观.ppt",
+      "kind": "PowerPoint",
+      "size": 1048064,
+      "href": "/archive/files/2010~2011%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%85%AD%E5%B1%8A%EF%BC%89/%E5%A4%AA%E9%98%B3%E7%B3%BB%E5%A5%87%E8%A7%82.ppt",
+      "featured": false
+    },
+    {
+      "cohort": "2010~2011活动（第六届）",
+      "name": "招新宣传单(1).doc",
+      "kind": "Word 文档",
+      "size": 12800,
+      "href": "/archive/files/2010~2011%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%85%AD%E5%B1%8A%EF%BC%89/%E6%8B%9B%E6%96%B0%E5%AE%A3%E4%BC%A0%E5%8D%95%281%29.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2011~2012活动（第七届）",
+      "name": "2011诺贝尔物理学奖.pptx",
+      "kind": "PowerPoint",
+      "size": 1693532,
+      "href": "/archive/files/2011~2012%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%83%E5%B1%8A%EF%BC%89/2011%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96.pptx",
+      "featured": false
+    },
+    {
+      "cohort": "2011~2012活动（第七届）",
+      "name": "会员大会知识竞答题.doc",
+      "kind": "Word 文档",
+      "size": 30208,
+      "href": "/archive/files/2011~2012%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%83%E5%B1%8A%EF%BC%89/%E4%BC%9A%E5%91%98%E5%A4%A7%E4%BC%9A%E7%9F%A5%E8%AF%86%E7%AB%9E%E7%AD%94%E9%A2%98.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2011~2012活动（第七届）",
+      "name": "四川大学天文协会金星凌日观测.docx",
+      "kind": "Word 文档",
+      "size": 25965,
+      "href": "/archive/files/2011~2012%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%83%E5%B1%8A%EF%BC%89/%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%A4%A9%E6%96%87%E5%8D%8F%E4%BC%9A%E9%87%91%E6%98%9F%E5%87%8C%E6%97%A5%E8%A7%82%E6%B5%8B.docx",
+      "featured": false
+    },
+    {
+      "cohort": "2011~2012活动（第七届）",
+      "name": "四川大学天文协会金星凌日讲座.docx",
+      "kind": "Word 文档",
+      "size": 21905,
+      "href": "/archive/files/2011~2012%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%83%E5%B1%8A%EF%BC%89/%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%A4%A9%E6%96%87%E5%8D%8F%E4%BC%9A%E9%87%91%E6%98%9F%E5%87%8C%E6%97%A5%E8%AE%B2%E5%BA%A7.docx",
+      "featured": false
+    },
+    {
+      "cohort": "2011~2012活动（第七届）",
+      "name": "我们的太阳.pptx",
+      "kind": "PowerPoint",
+      "size": 13350947,
+      "href": "/archive/files/2011~2012%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%83%E5%B1%8A%EF%BC%89/%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%AA%E9%98%B3.pptx",
+      "featured": false
+    },
+    {
+      "cohort": "2011~2012活动（第七届）",
+      "name": "望远镜介绍.ppt",
+      "kind": "PowerPoint",
+      "size": 27073024,
+      "href": "/archive/files/2011~2012%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%83%E5%B1%8A%EF%BC%89/%E6%9C%9B%E8%BF%9C%E9%95%9C%E4%BB%8B%E7%BB%8D.ppt",
+      "featured": false
+    },
+    {
+      "cohort": "2011~2012活动（第七届）",
+      "name": "金星凌日.jpg",
+      "kind": "图片",
+      "size": 178891,
+      "href": "/archive/files/2011~2012%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%83%E5%B1%8A%EF%BC%89/%E9%87%91%E6%98%9F%E5%87%8C%E6%97%A5.jpg",
+      "featured": true
+    },
+    {
+      "cohort": "2011~2012活动（第七届）",
+      "name": "金星凌日.pptx",
+      "kind": "PowerPoint",
+      "size": 3768577,
+      "href": "/archive/files/2011~2012%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%83%E5%B1%8A%EF%BC%89/%E9%87%91%E6%98%9F%E5%87%8C%E6%97%A5.pptx",
+      "featured": false
+    },
+    {
+      "cohort": "2011~2012活动（第七届）",
+      "name": "金星凌日活动新闻稿.docx",
+      "kind": "Word 文档",
+      "size": 11073,
+      "href": "/archive/files/2011~2012%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B8%83%E5%B1%8A%EF%BC%89/%E9%87%91%E6%98%9F%E5%87%8C%E6%97%A5%E6%B4%BB%E5%8A%A8%E6%96%B0%E9%97%BB%E7%A8%BF.docx",
+      "featured": false
+    },
+    {
+      "cohort": "2012~2013活动（第八届）",
+      "name": "四川大学天文协会2012~2013第一学期活动计划.docx",
+      "kind": "Word 文档",
+      "size": 13701,
+      "href": "/archive/files/2012~2013%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%85%AB%E5%B1%8A%EF%BC%89/%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%A4%A9%E6%96%87%E5%8D%8F%E4%BC%9A2012~2013%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%B4%BB%E5%8A%A8%E8%AE%A1%E5%88%92.docx",
+      "featured": false
+    },
+    {
+      "cohort": "2013~2014活动（第九届）",
+      "name": "恒星的一生.ppt",
+      "kind": "PowerPoint",
+      "size": 8943616,
+      "href": "/archive/files/2013~2014%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E4%B9%9D%E5%B1%8A%EF%BC%89/%E6%81%92%E6%98%9F%E7%9A%84%E4%B8%80%E7%94%9F.ppt",
+      "featured": false
+    },
+    {
+      "cohort": "2014~2015活动（第十届）",
+      "name": "天协简介.doc",
+      "kind": "Word 文档",
+      "size": 107008,
+      "href": "/archive/files/2014~2015%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%8D%81%E5%B1%8A%EF%BC%89/%E5%A4%A9%E5%8D%8F%E7%AE%80%E4%BB%8B.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2014~2015活动（第十届）",
+      "name": "天文协会十佳社团答辩PPT.ppt",
+      "kind": "PowerPoint",
+      "size": 5686272,
+      "href": "/archive/files/2014~2015%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%8D%81%E5%B1%8A%EF%BC%89/%E5%A4%A9%E6%96%87%E5%8D%8F%E4%BC%9A%E5%8D%81%E4%BD%B3%E7%A4%BE%E5%9B%A2%E7%AD%94%E8%BE%A9PPT.ppt",
+      "featured": false
+    },
+    {
+      "cohort": "2014~2015活动（第十届）",
+      "name": "查天气.doc",
+      "kind": "Word 文档",
+      "size": 17408,
+      "href": "/archive/files/2014~2015%E6%B4%BB%E5%8A%A8%EF%BC%88%E7%AC%AC%E5%8D%81%E5%B1%8A%EF%BC%89/%E6%9F%A5%E5%A4%A9%E6%B0%94.doc",
+      "featured": false
+    },
+    {
+      "cohort": "2017~2018活动（十三届）",
+      "name": "戴老师报告.pptx",
+      "kind": "PowerPoint",
+      "size": 205509,
+      "href": "/archive/files/2017~2018%E6%B4%BB%E5%8A%A8%EF%BC%88%E5%8D%81%E4%B8%89%E5%B1%8A%EF%BC%89/%E6%88%B4%E8%80%81%E5%B8%88%E6%8A%A5%E5%91%8A.pptx",
+      "featured": false
+    }
+  ],
+  "privacy": {
+    "policy": "default-deny",
+    "note": "仅公开已复核档案；敏感候选项只统计数量，不公开文件名。"
+  }
+}
